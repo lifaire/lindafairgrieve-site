@@ -1,0 +1,44 @@
+# MANIFESTO TEXT: edit the words, save, and the page updates.
+#
+# How this file works
+# - A line starting with ## is a heading.
+# - A line starting with > is the quote at the top.
+# - Lines starting with "- " make the numbered list. Put | between a title and its description:
+#   - Title | Description        (the description is optional)
+# - A blank line starts a new paragraph or ends a list.
+# - **bold**, *italic* and [link text](/address/) work in any line.
+# - Lines starting with a single # are notes and are ignored.
+
+> **"Seek first to understand, and then, to be understood"**, *quote attributed to S.R. Covey.*
+
+## What I believe in
+
+For marketing to become a force for change, two conditions need to be true: the goal of the project is rooted in a human-centred, sustainable solution, and the marketing practice itself is sustainable and ethical. Using good methods for a bad goal is pointless. Using bad methods for a good goal taints the goal and destroys it from within.
+
+I believe in flipping the system: a world where each of us can find our place and meaning by contributing in our own way to a system that, at its core, supports equality and sustainability and includes everybody. Naive? Good!
+
+## What I work towards
+
+I want to use my skills, time and creativity to promote future-friendly initiatives. When a product or service is designed and promoted to help only a small group thrive at the expense of others, using manipulation, deceit, technology or design to chase short-term, revenue-first goals, it inevitably takes away from the wellbeing of everyone else.
+
+I want technology to serve meaningful projects, and money to go back to being a means of exchange.
+
+I want to build trust in marketing as a source of good. So with every brief I ask: what agenda am I helping to promote? Are the methods manipulative, or transparent and trust-restoring?
+
+## My guiding values
+
+- Integrity over spin | Marketing with integrity means doing the right thing over the revenue-driven thing, and asking whether the choice made today will have a long-term social impact.
+- Collaboration over competition | Working towards shared, larger goals instead of a competitive mindset. In the end, we are all part of one system, with our species and the planet as the physical limits of our shared resources.
+- Simplicity and clarity
+- Meaningful action
+- Systemic change over one-time shots
+- Common good over individual gain
+- Win-win-win imperative | You win as a business, your client wins, and society at large wins too.
+- Slow power over short-term results
+- People first, revenue second
+
+## My most urgent priorities
+
+- Change the narrative around marketing practices
+- Prove that ethical ways deliver results
+- Give sustainable projects equal access to the best, most advanced marketing tools and practices

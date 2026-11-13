@@ -1,0 +1,19 @@
+# Glossary of ethical marketing terms
+# One term per line, in the form:  Term | Definition
+# Add a new term by adding a line. The page sorts the terms alphabetically on its own.
+# Lines starting with # are notes and are ignored. Don't use the | sign inside a term or definition.
+
+B Corp certification | A certification awarded by the nonprofit B Lab to companies that meet set standards of social and environmental performance, accountability and transparency. It looks at the whole business, not a single product, and has to be renewed periodically.
+Brand purpose | The reason a brand exists beyond making a profit, expressed as the difference it wants to make for people or society. A credible purpose shapes real decisions and behaviour, not just the advertising.
+Cause-related marketing | A partnership between a business and a cause, where sales or activity support that cause, for example a share of each purchase going to a charity. It works best when the link to the business is genuine and the contribution is stated clearly.
+Corporate social responsibility (CSR) | The ways a company takes responsibility for its impact on society and the environment, from how it treats staff and suppliers to how it manages its footprint. It is often criticised when treated as a side project instead of part of how the business runs.
+Dark patterns | Design tricks in websites and apps that steer people into choices they did not intend, such as hidden cancel buttons, pre-ticked boxes or confusing wording. They are a core concern in ethical marketing, and some are restricted by law in places like the EU.
+Greenwashing | Giving a false or exaggerated impression that a product, service or company is environmentally friendly. It ranges from vague claims such as "eco" or "natural" with no evidence to leaving out harmful facts.
+Inclusive marketing | Marketing that represents and speaks to a wide range of people in a respectful way, including different ages, abilities, backgrounds and identities. It goes beyond who appears in the images to who helps make the work and whether everyone can access it.
+Informed consent | A person's clear, voluntary agreement to something, given after they understand what they are agreeing to. In marketing it applies mainly to collecting and using personal data, for example in email sign-ups and cookie choices.
+Purpose-washing | Claiming a social or environmental purpose in marketing without backing it up with real action, investment or change inside the business. A gap between what a brand says and what it does is the usual sign.
+Stakeholder | Anyone affected by a business or able to influence it, including customers, employees, suppliers, communities, investors and the environment. Stakeholder thinking weighs all of them, not only the shareholders.
+Sustainable marketing | Marketing that aims to meet customer needs while limiting harm to people and the planet and considering long-term effects. It covers what is promoted, how it is promoted, and the claims made along the way.
+Triple bottom line | A framework that measures a business on three results, people, planet and profit, instead of profit alone. The term was popularised by John Elkington in the 1990s.
+Sustainability | Meeting the needs of the present without reducing the ability of future generations to meet their own, a definition from the 1987 Brundtland Report. In practice it means balancing environmental, social and economic concerns so that today's activity does not use up what people and the planet will need later.
+Wellbeing economy | An approach to the economy that makes the wellbeing of people and the planet its purpose, with growth treated as a means to that end, not the aim. It looks at things like health, equality, social connection and environmental health, alongside or instead of income and output alone.

@@ -1,0 +1,65 @@
+# SITE TEXT: edit the words after each colon. Save, and the site updates in a minute or two.
+#
+# How this file works
+# - Each line is  key: value  and lives under a [section] heading. Don't rename the keys or the [sections].
+# - In a value you can use **bold**, *italic* and [link text](address).
+#   Addresses starting with / are pages on this site, for example /ethical-marketing/glossary/
+# - Write TODO as the value to hide that item until it is ready (a link, an image, a block).
+# - Lines starting with # are notes and are ignored.
+
+[home]
+greeting: Hey, I'm Linda.
+intro: **Growth at all costs is no longer an option!** I help purpose-driven organisations achieve their goals beyond revenue. Project by project, I am committed to contributing to the emerging [wellbeing economy](/ethical-marketing/glossary/#wellbeing-economy).
+
+[links]
+email: mailto:contact@lindafairgrieve.com
+substack: https://substack.com/@lifaire
+linkedin: https://www.linkedin.com/in/lindafairgrieve-ethical-marketer/
+instagram: TODO
+
+[tabs]
+ethical-marketing: Ethical Marketing
+about: About
+glossary: Ethical Marketing Glossary
+manifesto: Ethical Marketing Manifesto
+
+[ethical-marketing]
+statement: In the context of today's growing emphasis on technology's unprecedented impact on human behaviour at a societal level, I cannot help but ask: what role does marketing, as a discipline, play in shaping our future?
+why-heading: Why?
+why-text: Nobody likes being sold to and yet every single one of us suffers from manipulative marketing practices on a daily basis. We will be waiting a terribly long time if we wait for the legislation to tell us how to be better. We marketers are always at a service of an idea, a project, we are like a megaphone that amplifies what is. I believe in aligning goals and financial gain - the real [sustainability](/ethical-marketing/glossary/#sustainability).
+why-button: Read full Manifesto
+
+[about]
+skill1: B2B SaaS marketing
+skill2: Go-to-market strategy
+skill3: Content strategy
+skill4: SEO & SEM
+skill5: Marketing automation
+skill6: HubSpot
+skill7: Growth analytics
+skill8: Conversion optimisation
+skill9: Paid acquisition
+skill10: AI-powered workflows
+phrase: Future is written today.
+philosophy-heading: Philosophy
+philosophy-text: I believe marketing should be a force for good, which means the goals I help my clients set and achieve go beyond just hitting revenue targets. Together, we aim for growth that's not only measurable and lasting but also mindful of its impact on people and the planet. My approach is a blend of the most solid marketing concepts, the tech know-how and a strong commitment to prosocial accountability.
+philosophy-image: images/sketch-nested-frames.svg
+philosophy-image-alt: Hand-drawn sketch of three tilted frames nested inside one another around a single dot, with a few dots in the inner space and many more in the outer one, representing a win-win-win between you, the people you serve and society.
+history-heading: Short history
+history-text: I started out in international and EU project management, which taught me to work across cultures, languages and stakeholders. I moved into marketing in Switzerland, from employer branding to leading marketing for a tech start-up, building teams, strategy and the systems that make growth measurable. Along the way I trained as a coach, and I've worked with AI. What ties it together is a talent for turning complex ideas into clear direction. Today I bring that to organisations that want to grow beyond revenue.
+history-image: images/sketch-pendulum.svg
+history-image-alt: Hand-drawn sketch of a pendulum of five balls hanging from a frame, with the leftmost ball swung out, representing how one action sets the whole system in motion.
+cv-button: Download resumé
+cv-link: /files/linda-fairgrieve-resume.pdf
+
+[glossary]
+title: Ethical Marketing Terms and Definitions
+intro: A growing list of ethical marketing terms, explained in plain language. I add new ones as I learn them and find them useful.
+
+[footer]
+left: made by me in EU
+right: © 2026 Linda Fairgrieve
+
+[not-found]
+message: Searching for meaning? That page doesn't exist. But there is an alternative: head back home.
+button: Back home
